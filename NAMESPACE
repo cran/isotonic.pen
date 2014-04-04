@@ -1,0 +1,5 @@
+#exportPattern("^[[:alpha:]]+")
+
+export(iso_pen)
+
+import(graphics, grDevices, stats, utils, coneproj, Matrix)
